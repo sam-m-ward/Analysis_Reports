@@ -1,4 +1,4 @@
-# Reports_Public
+# Analysis_Reports
 This repo contains reports I've written for various undergraduate, research internship, and postgraduate projects.
 
 This includes:
