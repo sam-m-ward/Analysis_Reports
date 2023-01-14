@@ -15,4 +15,4 @@ Coming Soon...
 
 **Hierarchically Bayesian analysis** of Type Ia supernovae (SNe Ia) that exploded in the same host galaxy ('SN Siblings'). Hierarchical methods to marginalise over the limited - but unknown - correlation between SN Ia siblings, to robustly estimate key parameters of scientific value.
 
-**Bayesian Machine Learning** to infer host galaxy dust distributions. Using **2D Gaussian process regression to interpolate spatio-temporal data**, and infer colours at peak time. Feeding these data into a **Hierarchical Bayesian Model** to infer the population hyperparameters that characterise the SN Ia intrinsic colour and host galaxy dust.
+**Bayesian Machine Learning** to infer host galaxy dust distributions. Using **2D Gaussian process regression to interpolate spatio-temporal data**, feeding these interpolations into a **Hierarchical Bayesian Model** to infer the population hyperparameters (that characterise the SN Ia intrinsic colour and host galaxy dust).
