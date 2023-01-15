@@ -9,7 +9,7 @@ This includes:
 
 3) BScReport.pdf (2018/19); BSc project involved **Fourier analysis to fit time-series data** of a pulsating star, measure the properties of a long-term modulation function, and infer physical properties like star temperature and radius. I used a telescope on the roof of the Durham physics department to measure (B,V) time-series data; I fitted the resulting photometry using a Fourier series, and inferred the sine-wave parameters that characterised the long-term evolution or 'Blazhko Modulation'. 
 
-4) UTokyoReport.pdf (2018); University of Tokyo Research Internship project used **Monte Carlo numerical simulations** to understand the effect of stellar flybys on resonant planetary systems. I built fake planetary systems using the AMUSE software, sent in a rogue star with a random trajectory and velocity, and measured the effect on the planets' orbital periods and semi-major axes.
+4) UTokyoReport.pdf (2018); University of Tokyo Research Internship project used **Monte Carlo numerical simulations** to investigate the effect of stellar flybys on resonant planetary systems. I built fake planetary systems using the AMUSE software, sent in a rogue star with a random trajectory and velocity, and measured the effect on the planets' orbital periods and semi-major axes.
 
 Coming Soon...
 
