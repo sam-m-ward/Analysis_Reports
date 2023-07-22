@@ -13,4 +13,6 @@ This includes:
 
 5) [UTokyoReport.pdf](https://github.com/sam-m-ward/Analysis_Reports/blob/main/UTokyoReport.pdf) (2018); University of Tokyo Research Internship project used **Monte Carlo numerical simulations** to investigate the effect of stellar flybys on resonant planetary systems. I built fake planetary systems using the AMUSE software, sent in a rogue star with a random trajectory and velocity, and measured the effect on the planets' orbital periods and semi-major axes.
 
+Coming soon...
+
 **Bayesian Machine Learning** to infer host galaxy dust distributions. Using **2D Gaussian process regression to interpolate spatio-temporal data**, feeding these interpolations into a **Hierarchical Bayesian Model** to infer the population hyperparameters (that characterise the SN Ia intrinsic colour and host galaxy dust).
